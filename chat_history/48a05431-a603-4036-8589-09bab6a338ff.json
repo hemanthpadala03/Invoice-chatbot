@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "hello "
+  },
+  {
+    "role": "assistant",
+    "content": "The total amount of items from Blinkit is `total_amount`. (Replace `total_amount` with the value you obtained in the observation.)"
+  }
+]

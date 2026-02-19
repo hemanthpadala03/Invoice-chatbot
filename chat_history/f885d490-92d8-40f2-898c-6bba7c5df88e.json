@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hi who are you"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, I am an expert data analyst and invoice assistant."
+  },
+  {
+    "role": "user",
+    "content": "what products are purchases from amazon "
+  },
+  {
+    "role": "assistant",
+    "content": "The products purchased from Amazon are:\n1. WiseLife Organics Starry Night Scented Candle\n2. Haldiram's Bhujia, 1kg\n3. Geki Hot & Spicy Korean Instant Noodles Chicken (5 In 1 Pack)\n4. Saffola Masala Oats Karara Crunch, Tasty Evening Snack\n5. Cello Puro SteelX Benz 900 | Leak Proof| Wide Mouth & Insulated Inner Steel Outer Plastic Water Bottle (730ml)\n6. Cello Puro SteelX Benz 900 | Leak Proof| Wide Mouth & Insulated Inner Steel Outer Plastic Water Bottle (1L)"
+  },
+  {
+    "role": "user",
+    "content": "where was Wiselife Organics Starry shipped to?"
+  },
+  {
+    "role": "assistant",
+    "content": "The \"WiseLife Organics Starry Night Scented Candle\" was shipped to Shivangi Narmada, SRM University AP, Mangalagiri, Amaravathi MANGALAGIRI, ANDHRA PRADESH, 522502."
+  },
+  {
+    "role": "user",
+    "content": "Total Amount spent on amazon "
+  },
+  {
+    "role": "assistant",
+    "content": "The total amount spent on Amazon is 1621.8."
+  },
+  {
+    "role": "user",
+    "content": "what about total tax "
+  },
+  {
+    "role": "assistant",
+    "content": "The total tax across all items is approximately INR 299.85."
+  }
+]

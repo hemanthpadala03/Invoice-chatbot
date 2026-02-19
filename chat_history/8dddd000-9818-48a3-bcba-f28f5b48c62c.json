@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "how much total amount did I spent on amazon?"
+  },
+  {
+    "role": "assistant",
+    "content": "The total amount spent on Amazon is approximately 8436.3. To calculate this, we can use the following Python command:\n\n```python\ntotal_amount = sum(df2['TotalAmount'][df2['Source_File'].str.contains('Amazon', case=False, na=False)])\nprint(total_amount)\n```"
+  }
+]

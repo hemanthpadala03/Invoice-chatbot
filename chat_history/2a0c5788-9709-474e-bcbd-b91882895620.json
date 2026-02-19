@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "The total amount of items sold on Amazon is 339 (rounded)."
+  }
+]

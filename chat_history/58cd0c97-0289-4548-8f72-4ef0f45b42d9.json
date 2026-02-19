@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hi "
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I help you with invoice data?"
+  },
+  {
+    "role": "user",
+    "content": "how much total amount did i pay in amazon"
+  },
+  {
+    "role": "assistant",
+    "content": "The total amount paid in Amazon is approximately 1621.8."
+  }
+]

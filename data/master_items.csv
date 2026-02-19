@@ -1,0 +1,54 @@
+SlNo,Description,UnitPrice,Discount,Qty,NetAmount,TaxRate,TaxType,TaxAmount,TotalAmount,Source_File
+1,"WiseLife Organics Starry Night Scented Candle | Smokeless
+Premium Soy Wax, Cotton Wick and Premium Glass Jar |
+Aromatherapy, Home Decor, Luxury Gift | Burn Time Upto 18
+Hours | 80 Grams Wax | B09HSGWG18 ( WLOSCSN01A )
+HSN:34060010
+Shipping Charges",218.75,0,1,218.75,12%,"IGST
+IGST",26.25,245,Amazon 1.xlsx
+1,"Haldiram's Bhujia, 1kg | B06WWKR6BS ( B06WWKR6BS )
+HSN:21069080
+Shipping Charges",250,12.5,1,237.5,12%,"IGST
+IGST",28.5,266,Amazon 2.xlsx
+2,"Geki Hot & Spicy Korean Instant Noodles Chicken (5 In 1
+Pack), 400 grams | B0C5M3XVTP ( B0C5M3XVTP )
+HSN:19021900
+Shipping Charges",200.89,10.04,1,190.85,12%,"IGST
+IGST",22.9,213.75,Amazon 2.xlsx
+3,"Saffola Masala Oats Karara Crunch, Tasty Evening Snack,
+Classic Masala With Crunchy Bits And Millets, 500 Gram |
+B0BJFC2LS8 ( B0BJFC2LS8 )
+HSN:11041200
+Shipping Charges",189.52,9.48,1,180.04,5%,"IGST
+IGST",9.01,189.05,Amazon 2.xlsx
+1,"Cello Puro SteelX Benz 900 | Leak Proof| Wide Mouth &
+Easy to Open | Insulated Inner Steel Outer Plastic Water
+Bottle | 730ml | Blue | B07THKG13S ( B07THKG13S )
+HSN:73239990
+Shipping Charges",302.68,0,1,302.68,12%,"IGST
+IGST",36.32,339,Amazon 3.xlsx
+2,"Cello Puro SteelX Benz 900 | Leak Proof| Wide Mouth &
+Easy to Open | Insulated Inner Steel Outer Plastic Water
+Bottle | 730ml | Red | B07TGJYD5Z ( B07TGJYD5Z )
+HSN:73239990
+Shipping Charges",329.46,0,1,329.46,12%,"IGST
+IGST",39.54,369,Amazon 3.xlsx
+1,Amul Pouch Curd (HSN-04039090),50,0,1,47.62,,GST,2.38,50,BlinkIt 1.xlsx
+1,Dairy Day Vanilla Ice Cream Tub(Tub) (HSN- 21050000),135,33,1,97.14,,GST,4.86,102,BlinkIt 2.xlsx
+1,Motichoor Laddu by Lal(Box) (HSN- 21069099),125,0,1,119.05,,GST,5.95,125,BlinkIt 3.xlsx
+1,Natureland Organics Barley Flour,,,1,65.71,,GST,3.29,69,Instamart 1.xlsx
+2,Vim Lemon Liquid Dishwash Gel,,,1,161.02,,GST,28.98,190,Instamart 1.xlsx
+3,Robusta Banana (Aratipandu),,,1,1,,GST,0,1,Instamart 1.xlsx
+4,Supreme Harvest Suji Rawa (Semolina),,,1,0.95,,GST,0.05,1,Instamart 1.xlsx
+5,Godrej Fab Liquid Detergent Refill Pouch for Machine,,,1,269.49,,GST,48.51,318,Instamart 1.xlsx
+6,Amul Choco Minis Chocolate,,,1,119.05,,GST,5.95,125,Instamart 1.xlsx
+7,Pusht Organic Barley (Jau) Dalia,,,1,68.57,,GST,3.43,72,Instamart 1.xlsx
+1,Bevzilla 20 Assorted Instant Coffee Powder Sachets,,,1,78.1,,GST,3.9,82,Instamart 2.xlsx
+2,Heritage Fresh Paneer,,,1,103,,GST,0,103,Instamart 2.xlsx
+3,NOICE Fresh Malai Paneer (Handmade Daily),,,1,55,,GST,0,55,Instamart 2.xlsx
+1,3 x Chapati Tub (6 pcs),315,63,1,252,2.5% + 2.5%,CGST+SGST,12.6,264.6,Zomato 1.xlsx
+2,Restaurant Packaging Charge,29,0,1,29,2.5% + 2.5%,CGST+SGST,1.45,30.45,Zomato 1.xlsx
+1,1 x Andhra Chicken Masala,190,19,1,171,2.5% + 2.5%,CGST+SGST,8.55,179.55,Zomato 2.xlsx
+2,1 x Veg Fried Rice,110,11,1,99,2.5% + 2.5%,CGST+SGST,4.95,103.95,Zomato 2.xlsx
+3,2 x Butter Roti,40,4,1,36,2.5% + 2.5%,CGST+SGST,1.8,37.8,Zomato 2.xlsx
+4,1 x Roti,15,1.5,1,13.5,2.5% + 2.5%,CGST+SGST,0.676,14.176,Zomato 2.xlsx
